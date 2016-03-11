@@ -3,7 +3,7 @@ package epam.com;
 import java.util.Scanner;
 
 /**
- * Created by Любовь on 22.02.2016.
+ * Created by Hrinchenko on 22.02.2016.
  */
 public class Main {
 
